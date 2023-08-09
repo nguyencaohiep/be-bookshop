@@ -1,0 +1,14 @@
+## Server Configuration
+SERVER_NAME: "soc1-service"
+SERVER_IP: "127.0.0.1"
+SERVER_PORT: "8001"
+SERVER_UPLOAD_LIMIT: 8
+SERVER_LOG_LEVEL: "debug"
+
+DB_DRIVER: "postgres"
+DB_HOST: "127.0.0.1"
+DB_PORT: "5432"
+DB_USER: "postgres"
+DB_PASSWORD: "password"
+DB_NAME: "soc1"
+
